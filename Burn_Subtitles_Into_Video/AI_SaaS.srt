@@ -1,0 +1,260 @@
+1
+00:00:00,319 --> 00:00:01,879
+As someone with an AI background,
+
+2
+00:00:01,879 --> 00:00:04,277
+I think you can probably explain to us,
+
+3
+00:00:04,277 --> 00:00:06,916
+you know, this whole hype of generative AI, right?
+
+4
+00:00:06,916 --> 00:00:10,063
+I mean, right now people want generative AI in everything.
+
+5
+00:00:10,163 --> 00:00:11,363
+What is this about? Right?
+
+6
+00:00:11,363 --> 00:00:14,481
+I mean, what is the potential that's been unlocked with
+
+7
+00:00:14,481 --> 00:00:17,659
+the GPT-3 and so on? Can you help us understand
+
+8
+00:00:17,659 --> 00:00:20,657
+from a lay person's perspective, right?
+
+9
+00:00:20,657 --> 00:00:23,356
+What this has done and what the future holds? Sure.
+
+10
+00:00:23,724 --> 00:00:26,283
+So I think if we just take a step back
+
+11
+00:00:26,283 --> 00:00:29,402
+and think about all the creative things as
+
+12
+00:00:29,402 --> 00:00:32,309
+humans do, you know, basically it's
+
+13
+00:00:32,309 --> 00:00:35,347
+like we collect from five senses that
+
+14
+00:00:35,347 --> 00:00:38,386
+we have and we output. That output could
+
+15
+00:00:38,386 --> 00:00:42,064
+be speech or written stuff
+
+16
+00:00:42,403 --> 00:00:45,761
+or art, etc. And just
+
+17
+00:00:45,761 --> 00:00:47,969
+think about generative AI the same thing,
+
+18
+00:00:48,329 --> 00:00:51,708
+which is an AI comes in the place of the human
+
+19
+00:00:52,047 --> 00:00:55,246
+and it generates what a human can generate,
+
+20
+00:00:55,246 --> 00:00:58,484
+which is speech or text
+
+21
+00:00:58,943 --> 00:01:01,062
+or images or videos, things
+
+22
+00:01:01,062 --> 00:01:05,219
+like that, etc. And what happened
+
+23
+00:01:05,359 --> 00:01:08,437
+and the biggest transformative thing that
+
+24
+00:01:08,437 --> 00:01:09,997
+happened in the last one, two,
+
+25
+00:01:09,997 --> 00:01:13,174
+two years, three years span is the
+
+26
+00:01:13,174 --> 00:01:15,953
+AI generation catching up with human levels.
+
+27
+00:01:16,572 --> 00:01:18,951
+I mean, if you take just three years back,
+
+28
+00:01:19,529 --> 00:01:21,589
+you would know what is AI written content.
+
+29
+00:01:21,728 --> 00:01:23,827
+You would know what is AI generated image.
+
+30
+00:01:24,647 --> 00:01:28,084
+Now the line between AI generated
+
+31
+00:01:28,264 --> 00:01:31,563
+and human creativity generated has blurred
+
+32
+00:01:32,022 --> 00:01:35,181
+and that has been blurred only in the last one year most
+
+33
+00:01:35,181 --> 00:01:38,788
+actively, whether these Stable diffusion, Dalle
+
+34
+00:01:38,888 --> 00:01:42,267
+models,  I mean, text to image models
+
+35
+00:01:42,366 --> 00:01:46,134
+or chat GPT, which responds
+
+36
+00:01:47,074 --> 00:01:49,972
+to almost like a human like conversation
+
+37
+00:01:51,192 --> 00:01:54,249
+and all these modalities, when I mean modalities,
+
+38
+00:01:54,349 --> 00:01:56,634
+text, image, speech and
+
+39
+00:01:56,634 --> 00:01:59,829
+the human sensory experience that we have!
+
+40
+00:01:59,829 --> 00:02:03,684
+Right now, AI is able to replicate one human sensory
+
+41
+00:02:03,684 --> 00:02:06,823
+experience, whether you are able to draw a nice illustration,
+
+42
+00:02:07,282 --> 00:02:09,969
+AI can do that. Whether you are able to
+
+43
+00:02:09,969 --> 00:02:13,869
+write a story, AI can do that. But think about
+
+44
+00:02:14,728 --> 00:02:17,875
+what real humans do! In the sense that
+
+45
+00:02:17,875 --> 00:02:19,466
+let us say if you write a story,
+
+46
+00:02:20,384 --> 00:02:24,523
+you can illustrate the story with specific
+
+47
+00:02:24,622 --> 00:02:27,161
+characters and even if you have 100 illustrations,
+
+48
+00:02:27,929 --> 00:02:30,641
+those characters and their attributes
+
+49
+00:02:30,641 --> 00:02:34,086
+flow through the 100 images that you
+
+50
+00:02:34,086 --> 00:02:36,106
+have throughout the story or book
+
+51
+00:02:36,694 --> 00:02:40,173
+and there is a coherence, there is a coherence between
+
+52
+00:02:40,173 --> 00:02:42,832
+text, images and
+
+53
+00:02:42,832 --> 00:02:45,590
+if you narrate that yourself with your voice,
+
+54
+00:02:45,719 --> 00:02:49,138
+there is a coherence on how you stress on important
+
+55
+00:02:49,158 --> 00:02:51,457
+characters, how you stress on other things.
+
+56
+00:02:51,836 --> 00:02:55,295
+So right now, AI is doing one task very well,
+
+57
+00:02:55,854 --> 00:02:58,913
+But let us think about generative AI
+
+58
+00:02:58,933 --> 00:03:02,800
+evolving into a multimodal generative AI,
+
+59
+00:03:02,800 --> 00:03:06,208
+those text and the illustrations that
+
+60
+00:03:06,208 --> 00:03:09,286
+accompany with them will be in coherence that is
+
+61
+00:03:09,406 --> 00:03:11,466
+there is continuity between images,
+
+62
+00:03:11,944 --> 00:03:16,337
+the same character is going to other place, etc things like that.
+
+63
+00:03:16,337 --> 00:03:20,660
+So what we can foresee in the future is multimodal AI,
+
+64
+00:03:22,669 --> 00:03:26,547
+doing more multimodal, multi-sensory generative AI
+
+65
+00:03:26,547 --> 00:03:27,567
+tasks that humans do.
+
